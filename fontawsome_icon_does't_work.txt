@@ -1,0 +1,5 @@
+call all.css in html file
+
+don't forget webfonts next to css file
+
+be sure that icon from version you downloaded
